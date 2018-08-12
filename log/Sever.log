@@ -1,0 +1,543 @@
+2018-07-22 20:39:59,701 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 20:40:59,268 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 20:43:26,329 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 20:45:56,568 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 20:45:56,940 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 20:45:56,942 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 20:45:56,943 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 20:45:56,943 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 20:45:56,944 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 20:45:56,944 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 20:50:37,308 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 20:50:37,694 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 20:50:37,695 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 20:50:37,695 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 20:50:37,696 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 20:50:37,696 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 20:50:37,696 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 20:50:42,698 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:50:47,698 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:50:52,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:50:57,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:51:02,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:51:07,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:51:12,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:51:17,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:51:22,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:51:27,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:51:32,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:51:37,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:51:42,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:51:47,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:51:52,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:51:57,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:52:02,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:52:07,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:52:12,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:52:17,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:52:22,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:52:27,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:52:32,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:52:37,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:52:42,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:52:47,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:52:49,902 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38254 The link was established.
+2018-07-22 20:52:49,902 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 20:52:49,902 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38274 The link was established.
+2018-07-22 20:52:49,902 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 9
+2018-07-22 20:52:49,902 [INFO] [src/MainServer.cc:onClose:33]192.168.227.128:9999 -> 192.168.227.128:38254 close.
+2018-07-22 20:52:52,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:52:57,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:53:02,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:53:03,744 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38276 The link was established.
+2018-07-22 20:53:03,744 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 20:53:03,744 [INFO] [src/MainServer.cc:onClose:33]192.168.227.128:9999 -> 192.168.227.128:38274 close.
+2018-07-22 20:53:07,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:53:12,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:53:17,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:53:22,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:53:27,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:53:28,185 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38278 The link was established.
+2018-07-22 20:53:28,185 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 9
+2018-07-22 20:53:32,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:53:37,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:53:42,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:53:47,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:53:52,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:53:57,698 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:54:02,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:54:07,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:54:12,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:54:17,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:54:22,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:54:27,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:54:32,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:54:37,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:54:42,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:54:47,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:54:52,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:54:57,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:55:02,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:55:07,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:55:12,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:55:17,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:55:22,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:55:27,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:55:32,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:55:37,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:55:42,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:55:47,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:55:52,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:55:57,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:56:02,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:56:07,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:56:12,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:56:17,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:56:22,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:56:27,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:56:32,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:56:37,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:56:42,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:56:47,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:56:52,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:56:57,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:56:58,400 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38298 The link was established.
+2018-07-22 20:56:58,400 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 10
+2018-07-22 20:56:58,400 [WARN] [src/CacheManager.cc:getCache:30]A new Cache create.
+2018-07-22 20:57:02,701 [WARN] [src/CacheManager.cc:periodcUpdate:98]1 cache on disk upfated.
+2018-07-22 20:57:07,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:57:12,697 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 20:57:17,698 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:36:12,691 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:36:13,076 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:36:13,077 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:36:13,077 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:36:13,078 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:36:13,079 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:36:13,079 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:36:18,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:36:23,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:36:28,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:36:33,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:36:38,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:36:43,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:36:48,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:36:53,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:36:58,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:37:03,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:37:08,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:37:13,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:37:18,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:37:23,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:37:28,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:37:33,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:37:38,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:37:43,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:37:48,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:37:53,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:37:58,079 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:38:03,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:38:08,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:38:13,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:38:18,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:38:23,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:38:28,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:38:33,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:38:38,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:38:43,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:38:48,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:38:53,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:38:58,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:39:03,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:39:08,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:39:13,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:39:18,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:39:23,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:39:28,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:39:33,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:39:38,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:39:43,079 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:39:48,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:39:53,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:39:58,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:40:03,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:40:08,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:40:13,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:40:18,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:40:23,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:40:28,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:40:33,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:40:38,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:40:43,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:40:48,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:40:53,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:40:58,080 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:41:02,573 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:41:02,959 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:41:02,959 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:41:02,960 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:41:02,960 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:41:02,960 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:41:02,960 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:41:07,961 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:41:12,961 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:41:25,731 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:41:26,114 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:41:26,115 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:41:26,115 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:41:26,115 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:41:26,115 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:41:26,115 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:41:31,117 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:41:36,117 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:41:41,116 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:43:30,096 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:43:30,467 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:43:30,468 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:43:30,468 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:43:30,468 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:43:30,469 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:43:30,469 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:43:35,471 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:43:40,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:43:45,470 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:43:50,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:43:55,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:44:00,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:44:05,470 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:44:10,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:44:15,470 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:44:20,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:44:25,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:44:30,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:44:35,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:44:40,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:44:45,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:44:50,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:44:55,470 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:45:00,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:45:05,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:45:10,470 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:45:15,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:45:20,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:45:25,470 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:45:30,470 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:45:35,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:45:40,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:45:45,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:45:50,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:45:55,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:46:00,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:46:05,470 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:46:10,469 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:46:18,944 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:46:19,327 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:46:19,327 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:46:19,328 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:46:19,328 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:46:19,328 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:46:19,328 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:46:24,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:46:24,564 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38504 The link was established.
+2018-07-22 22:46:24,565 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 22:46:29,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:46:34,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:46:39,328 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:46:41,908 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38506 The link was established.
+2018-07-22 22:46:41,908 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 9
+2018-07-22 22:46:44,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:46:49,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:46:54,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:46:55,330 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38508 The link was established.
+2018-07-22 22:46:55,330 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 10
+2018-07-22 22:46:55,330 [WARN] [src/CacheManager.cc:getCache:30]A new Cache create.
+2018-07-22 22:46:59,330 [WARN] [src/CacheManager.cc:periodcUpdate:98]1 cache on disk upfated.
+2018-07-22 22:47:04,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:47:09,330 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:47:14,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:47:18,508 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38510 The link was established.
+2018-07-22 22:47:18,508 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 11
+2018-07-22 22:47:18,508 [INFO] [src/MainServer.cc:onClose:33]192.168.227.128:9999 -> 192.168.227.128:38504 close.
+2018-07-22 22:47:18,509 [WARN] [src/CacheManager.cc:getCache:30]A new Cache create.
+2018-07-22 22:47:19,328 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:47:24,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:47:29,328 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:47:34,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:47:35,082 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38512 The link was established.
+2018-07-22 22:47:35,082 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 22:47:35,082 [INFO] [src/MainServer.cc:onClose:33]192.168.227.128:9999 -> 192.168.227.128:38506 close.
+2018-07-22 22:47:35,083 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 22:47:35,083 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 9
+2018-07-22 22:47:35,083 [WARN] [src/CacheManager.cc:getCache:30]A new Cache create.
+2018-07-22 22:47:39,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:47:44,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:47:49,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:47:54,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:47:59,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:48:04,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:48:05,152 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38514 The link was established.
+2018-07-22 22:48:05,152 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 9
+2018-07-22 22:48:05,152 [INFO] [src/MainServer.cc:onClose:33]192.168.227.128:9999 -> 192.168.227.128:38508 close.
+2018-07-22 22:48:05,152 [WARN] [src/CacheManager.cc:getCache:30]A new Cache create.
+2018-07-22 22:48:09,333 [WARN] [src/CacheManager.cc:periodcUpdate:98]1 cache on disk upfated.
+2018-07-22 22:48:14,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:48:17,901 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38516 The link was established.
+2018-07-22 22:48:17,901 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 10
+2018-07-22 22:48:17,902 [INFO] [src/MainServer.cc:onClose:33]192.168.227.128:9999 -> 192.168.227.128:38510 close.
+2018-07-22 22:48:17,902 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 10
+2018-07-22 22:48:17,902 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 11
+2018-07-22 22:48:19,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:48:24,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:48:29,330 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:48:34,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:48:39,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:48:44,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:48:49,330 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:48:54,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:48:57,555 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38518 The link was established.
+2018-07-22 22:48:57,556 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 11
+2018-07-22 22:48:57,556 [INFO] [src/MainServer.cc:onClose:33]192.168.227.128:9999 -> 192.168.227.128:38512 close.
+2018-07-22 22:48:59,330 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:49:04,330 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:49:09,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:49:14,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:49:16,928 [INFO] [src/MainServer.cc:onConnection:18]192.168.227.128:9999 -> 192.168.227.128:38520 The link was established.
+2018-07-22 22:49:16,929 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 12
+2018-07-22 22:49:16,929 [INFO] [src/MainServer.cc:onClose:33]192.168.227.128:9999 -> 192.168.227.128:38514 close.
+2018-07-22 22:49:16,929 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 22:49:16,929 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 9
+2018-07-22 22:49:19,330 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:49:24,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:49:29,329 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:49:37,099 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:49:37,475 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:49:37,475 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:49:37,475 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:49:37,476 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:49:37,476 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:49:37,476 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:49:42,477 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:49:47,476 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:49:52,477 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:49:57,477 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:50:02,477 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:50:08,944 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:50:09,316 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:50:09,317 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:50:09,317 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:50:09,317 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:50:09,317 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:50:09,317 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:50:14,318 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:50:19,318 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:50:22,026 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:50:22,398 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:50:22,398 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:50:22,398 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:50:22,399 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:50:22,399 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:50:22,399 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:50:27,400 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:50:32,400 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:51:01,218 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:51:01,586 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:51:01,586 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:51:01,586 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:51:01,587 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:51:01,587 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:51:01,587 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:51:06,588 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:51:11,587 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:51:16,588 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:51:21,587 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:51:25,932 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:51:26,312 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:51:26,313 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:51:26,313 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:51:26,313 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:51:26,314 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:51:26,314 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:51:31,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:51:36,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:51:41,316 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:51:46,316 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:51:51,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:51:56,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:52:01,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:52:06,316 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:52:11,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:52:16,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:52:21,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:52:26,316 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:52:31,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:52:36,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:52:41,316 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:52:46,316 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:52:51,316 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:52:56,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:53:01,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:53:06,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:53:11,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:53:16,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:53:21,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:53:26,315 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:53:32,293 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:53:32,678 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:53:32,679 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:53:32,679 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:53:32,679 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:53:32,680 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:53:32,680 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:53:37,682 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:53:42,682 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:53:47,682 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:53:57,191 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:53:57,564 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:53:57,565 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:53:57,565 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:53:57,565 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:53:57,565 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:53:57,565 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:54:02,567 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:54:07,566 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 22:54:12,191 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:54:12,572 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:54:12,573 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:54:12,573 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:54:12,573 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:54:12,573 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:54:12,573 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:54:15,111 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:54:15,478 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:54:15,479 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:54:15,479 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:54:15,480 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:54:15,480 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:54:15,480 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:54:18,896 [INFO] [src/MainServer.cc:start:39]Server Startd
+2018-07-22 22:54:19,278 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 22:54:19,278 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 22:54:19,279 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:54:19,279 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:54:19,279 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:54:19,279 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 22:54:24,280 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:09:53,028 [INFO] [src/MainServer.cc:start:40]Server Startd
+2018-07-22 23:09:53,408 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 23:09:53,409 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 23:09:53,409 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 23:09:53,409 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 23:09:53,410 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 23:09:53,410 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 23:09:58,411 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:10:03,411 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:10:08,411 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:10:13,410 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:10:18,410 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:10:23,410 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:10:28,410 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:10:33,410 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:10:38,411 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:10:43,411 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:10:48,411 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:10:53,410 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:10:58,410 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:11:03,410 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:11:08,410 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:11:13,411 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:11:18,410 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:11:23,410 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:11:28,410 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:11:33,411 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:11:38,410 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:15:24,330 [INFO] [src/MainServer.cc:start:40]Server Startd
+2018-07-22 23:15:24,732 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 23:15:24,732 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 23:15:24,733 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 23:15:24,733 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 23:15:24,733 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 23:15:24,734 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 23:15:28,680 [INFO] [src/MainServer.cc:onConnection:19]192.168.227.128:9999 -> 192.168.227.128:38808 The link was established.
+2018-07-22 23:15:28,680 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:15:29,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:15:32,522 [WARN] [src/CacheManager.cc:getCache:30]A new Cache create.
+2018-07-22 23:15:32,522 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:15:34,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:15:38,823 [WARN] [src/CacheManager.cc:getCache:30]A new Cache create.
+2018-07-22 23:15:38,854 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:15:39,738 [WARN] [src/CacheManager.cc:periodcUpdate:98]1 cache on disk upfated.
+2018-07-22 23:15:44,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:15:49,083 [WARN] [src/CacheManager.cc:getCache:30]A new Cache create.
+2018-07-22 23:15:49,363 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:15:49,738 [WARN] [src/CacheManager.cc:periodcUpdate:98]1 cache on disk upfated.
+2018-07-22 23:15:54,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:15:57,330 [WARN] [src/CacheManager.cc:getCache:30]A new Cache create.
+2018-07-22 23:15:57,418 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:15:59,738 [WARN] [src/CacheManager.cc:periodcUpdate:98]1 cache on disk upfated.
+2018-07-22 23:16:04,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:16:09,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:16:14,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:16:19,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:16:21,472 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:16:24,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:16:29,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:16:34,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:16:39,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:16:44,453 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:16:44,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:16:47,611 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:16:49,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:16:54,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:16:59,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:17:04,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:17:09,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:17:10,715 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:17:14,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:17:19,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:17:24,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:17:29,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:17:34,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:17:39,361 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:17:39,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:17:41,959 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:17:44,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:17:49,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:17:54,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:17:59,735 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:18:04,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:18:06,398 [INFO] [src/MainServer.cc:onClose:34]192.168.227.128:9999 -> 192.168.227.128:38808 close.
+2018-07-22 23:18:09,736 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:19:58,347 [INFO] [src/MainServer.cc:start:40]Server Startd
+2018-07-22 23:19:58,742 [INFO] [src/MyDict.cc:init:21]Dict Initialized.
+2018-07-22 23:19:58,743 [INFO] [src/CacheManager.cc:initCache:17]The main Cache was initialize.
+2018-07-22 23:19:58,743 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 23:19:58,743 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 23:19:58,744 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 23:19:58,744 [WARN] [./include/WorkerThread.h:WorkerThread:29]A new workerthread has created.
+2018-07-22 23:20:00,872 [INFO] [src/MainServer.cc:onConnection:19]192.168.227.128:9999 -> 192.168.227.128:38810 The link was established.
+2018-07-22 23:20:00,872 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:20:03,746 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:20:04,270 [WARN] [src/CacheManager.cc:getCache:30]A new Cache create.
+2018-07-22 23:20:04,273 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:20:08,748 [WARN] [src/CacheManager.cc:periodcUpdate:98]1 cache on disk upfated.
+2018-07-22 23:20:13,747 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:20:18,746 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:20:19,296 [WARN] [src/CacheManager.cc:getCache:30]A new Cache create.
+2018-07-22 23:20:19,298 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:20:23,749 [WARN] [src/CacheManager.cc:periodcUpdate:98]1 cache on disk upfated.
+2018-07-22 23:20:25,562 [WARN] [src/CacheManager.cc:getCache:30]A new Cache create.
+2018-07-22 23:20:25,565 [WARN] [src/TcpConnection.cc:send:59]Message sent through socket 8
+2018-07-22 23:20:28,750 [WARN] [src/CacheManager.cc:periodcUpdate:98]1 cache on disk upfated.
+2018-07-22 23:20:33,746 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:20:38,746 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:20:43,746 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:20:48,746 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:20:53,746 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:20:58,746 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:21:03,746 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:21:08,746 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:21:13,745 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:21:18,746 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:21:23,746 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:21:28,746 [WARN] [src/CacheManager.cc:periodcUpdate:50]No cache to update in this period.
+2018-07-22 23:21:31,377 [INFO] [src/MainServer.cc:onClose:34]192.168.227.128:9999 -> 192.168.227.128:38810 close.
